@@ -1,4 +1,4 @@
-package org.hyuna.ex;
+package org.hyuna.ch03.sec01;
 
 public class SignOperatorExample {
 
