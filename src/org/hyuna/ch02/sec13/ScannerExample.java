@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ScannerExample {
 
 	public static void main(String[] args) {
+		// 키보드 입력 데이터를 변수에 저장, 파싱(문자열을 기본타입 정수로 변환) 사용
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("x값 입력 : ");
