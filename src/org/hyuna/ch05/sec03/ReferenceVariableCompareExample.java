@@ -2,6 +2,7 @@ package org.hyuna.ch05.sec03;
 
 public class ReferenceVariableCompareExample {
 	public static void main(String[] args) {
+		//<참조 타입 변수의 ==, != 연산>
 		//다음 예제는 두 배열 변수를 ==, != 연산으로 같은 배열을 참조하는지 검사한다.
 		
 		int[] arr1;	//배열 변수 arr1 선언
